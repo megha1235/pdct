@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pdct1</string>
+    <string name="pdct">Brand</string>
+    <string-array name="brand">
+        <item>Oppo</item>
+        <item>lenovo</item>
+        <item>samsung</item>
+        <item>LG</item>
+    </string-array>
+    <string name="item">Type</string>
+    <string-array name="type">
+        <item>New</item>
+        <item>used</item>
+    </string-array>
+</resources>
